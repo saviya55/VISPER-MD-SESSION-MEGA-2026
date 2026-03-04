@@ -14,7 +14,15 @@ const MAX_RECONNECT_ATTEMPTS = 3;
 const SESSION_TIMEOUT = 5 * 60 * 1000;
 const CLEANUP_DELAY = 5000;
 
-const MESSAGE = `...`; // your message
+const MESSAGE = `*VISPER-MD Session Connected 🫟*
+
+*Now you can using this session id for deploy your bot⚡*
+
+*◻ Github :* https://github.com/vispermdoffical/VISPER-MD
+
+*◻ Chanal link :* https://whatsapp.com/channel/0029Vb1Db0LCsU9SUsOXuC3c
+
+*◻ Offical web :* https://visper-md-offical.vercel.app/`; // your message
 
 async function removeFile(FilePath) {
     try {
