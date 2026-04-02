@@ -1,8 +1,8 @@
 {
-  "name": "web-pair",
+  "name": "yh",
   "version": "2.0.0",
   "type": "module",
-  "description": "A multi-functional WhatsApp bot Pairing Web and QR Scanner.",
+  "description": "tj",
   "main": "index.js",
   "engines": {
   "node": ">=20.0.0"
@@ -11,11 +11,8 @@
   "start": "node index.js",
   "dev": "nodemon index.js"
   },
-  "keywords": [
-  "baileysQr", "MdLogin", "MEGA-AI", "whatsapp-bot", "BotWhatsapp", "whatsapp-web", "whatsapp", "session", "pair-code", "express-pairing", "whatsappbot", "express-session", "whatsapp-api", "pairing", "baileys-md", "baileys-bot",
-  "whatsappLogin", "adiwajshing/baileys", "baileys-md-qr", "multi-device-qr", "whiskey sockets/baileys", "md-pair", "bot-pair", "baileysQrScanner", "botpairing", "WhatsAppPairing", "LinkDevice"
-  ],
-  "author": "GlobalTechInfo",
+  
+  "author": "r6",
   "license": "MIT",
   "dependencies": {
   "@hapi/boom": "^10.0.1",
